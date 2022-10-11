@@ -1,5 +1,7 @@
 # An Analysis of Political Contributions During the 2020 House of Representatives Election
 
+dbsauifdbafidgb
+
 In this part, you will obtain as much data as you can on the campaign contributions received by each candidate. This data is avaiable through the website https://www.opensecrets.org/.
 1. Start by scraping the data from the summary page for Tennessee's 7th District, which is available at https://www.opensecrets.org/races/candidates?cycle=2020&id=TN07&spec=N.
     * Make a DataFrame showing, for each candidate:
